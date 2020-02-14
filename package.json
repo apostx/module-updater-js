@@ -1,0 +1,17 @@
+{
+    "name": "module-updater",
+    "description": "ModuleUpdater",
+    "version": "0.0.1",
+    "author": "apostx",
+    "license": "MIT",
+    "repository": "github:apostx/module-updater-js",
+    "engines": {
+        "node": ">= 0.10.0"
+    },
+    "files": [
+        "LICENSE",
+        "Readme.md",
+        "index.js",
+        "lib/"
+    ]
+}
